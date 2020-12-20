@@ -1,0 +1,11 @@
+Nama Kelompok :
+Abdul Mannan		1757201001961
+Andre Geofani		1757201001962
+Awanda Octavianti Putri	1757201001924
+Muhammad Yunus		1757201001933
+Muhtaruddin		1757201002000
+Noprida Arianto		1757201001952
+
+Ket:
+Main.py (isi berupa tampilan)
+Home.py (isi berupa syntax sesuai dengan json)
